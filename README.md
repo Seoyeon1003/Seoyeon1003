@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/SkylarLee1003" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=#181717"/></a>
 
 
-<!-- 깃-->
+<!-- 깃 -->
