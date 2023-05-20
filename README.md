@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 <!-- 로고 자리 -->
 <a href="https://skylarcoding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=#000000"/></a>
 <a href="https://github.com/SkylarLee1003" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=#181717"/></a>
-
+<a href="mailto:skylarlee1003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=#EA4335"/></a>
 
 <!-- 깃 -->
