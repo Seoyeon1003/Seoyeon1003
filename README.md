@@ -23,8 +23,13 @@ Here are some ideas to get you started:
 ### Programming Ability
 <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=#000000"/>
 
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkylarLee1003&show_icons=true&theme=graywhite)
+  
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkylarLee1003&layout=compact&theme=graywhite)
+  
+  
   
   
   #
