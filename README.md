@@ -1,5 +1,4 @@
 <div align="center">
-### Hi there 👋
 
 <!--
 **SkylarLee1003/SkylarLee1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  #
 <!-- 로고 자리 -->
   ## About Me
 <a href="https://skylarcoding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=#000000"/></a>
