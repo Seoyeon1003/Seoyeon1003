@@ -18,4 +18,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/SkylarLee1003" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=#181717"/></a>
 <a href="mailto:skylarlee1003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=#EA4335"/></a>
 
-<!-- 깃 -->
+<!-- 능력 -->
+### Programming Ability
+<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=#000000"/>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=
+SkylarLee1003&show_icons=true&theme=radical)
