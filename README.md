@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!-- 능력 -->
 ### Programming Ability
-<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=#000000"/>
+<img src="https://img.shields.io/badge/vuedotjs-#4FC08D?style=plastic&logo=vuedotjs&logoColor=white"/>
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkylarLee1003&show_icons=true&theme=graywhite)
