@@ -42,9 +42,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=Github&logoColor=181717"/>
 <img src="https://img.shields.io/badge/Boot Strap-white?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/> 
 <br/>
-
-<img src="https://img.shields.io/badge/visualstudio code-white?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/eclipseide-white?style=for-the-badge&logo=eclipseide&logoColor=2C2255"/><img src="https://img.shields.io/badge/notion-white?style=for-the-badge&logo=notion&logoColor=000000"/>
+<br/>
+<img src="https://img.shields.io/badge/Mac OS-white?style=for-the-badge&logo=apple&logoColor=000000"/>
+<img src="https://img.shields.io/badge/visual studio code-white?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/eclipse-white?style=for-the-badge&logo=eclipseide&logoColor=2C2255"/><img src="https://img.shields.io/badge/notion-white?style=for-the-badge&logo=notion&logoColor=000000"/>
 
 <br/>
 
