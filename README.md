@@ -25,27 +25,16 @@ Here are some ideas to get you started:
 ## Programming Ability <br/>
 ### 🛠 Experienced Tech Stack
 
-<img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=007396"/>
-<img src="https://img.shields.io/badge/Spring-white?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
-<img src="https://img.shields.io/badge/Spring Boot-white?style=for-the-badge&logo=springboot&logoColor=6DB33F"/> 
+| Languages | Framework | Project Management | DataBase | Environment |
+| --------- | --------- | ------------------ | -------- | ----------- |
+| <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=007396"/> | <img src="https://img.shields.io/badge/Spring Boot-white?style=for-the-badge&logo=springboot&logoColor=6DB33F"/> | <img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git&logoColor=F05032"/> | <img src="https://img.shields.io/badge/Oracle-white?style=for-the-badge&logo=Oracle&logoColor=F80000"/> | <img src="https://img.shields.io/badge/Mac OS-white?style=for-the-badge&logo=apple&logoColor=000000"/> |
+| <img src="https://img.shields.io/badge/JavaScript-F6F9FA?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> | <img src="https://img.shields.io/badge/jQuery-F6F9FA?style=for-the-badge&logo=jQuery&logoColor=0769AD"/> | <img src="https://img.shields.io/badge/GitHub-F6F9FA?style=for-the-badge&logo=Github&logoColor=181717"/> |  | <img src="https://img.shields.io/badge/visual studio code-F6F9FA?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/> |
+| <img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=E34F26"/> | <img src="https://img.shields.io/badge/Vue.js-white?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/> | <img src="https://img.shields.io/badge/notion-white?style=for-the-badge&logo=notion&logoColor=000000"/> |  | <img src="https://img.shields.io/badge/eclipse-white?style=for-the-badge&logo=eclipseide&logoColor=2C2255"/> |
+| <img src="https://img.shields.io/badge/CSS3-F6F9FA?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>  | <img src="https://img.shields.io/badge/Boot Strap-F6F9FA?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/> | | | |
+
 <br/>
 
-<img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/jQuery-white?style=for-the-badge&logo=jQuery&logoColor=0769AD"/>
-<img src="https://img.shields.io/badge/Vue.js-white?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
-<img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=CSS3&logoColor=1572B6"/> 
-<br/>
 
-<img src="https://img.shields.io/badge/Oracle-white?style=for-the-badge&logo=Oracle&logoColor=F80000"/>
-<img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=Github&logoColor=181717"/>
-<img src="https://img.shields.io/badge/Boot Strap-white?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/> 
-<br/>
-<br/>
-<img src="https://img.shields.io/badge/Mac OS-white?style=for-the-badge&logo=apple&logoColor=000000"/>
-<img src="https://img.shields.io/badge/visual studio code-white?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/eclipse-white?style=for-the-badge&logo=eclipseide&logoColor=2C2255"/><img src="https://img.shields.io/badge/notion-white?style=for-the-badge&logo=notion&logoColor=000000"/>
 
 <br/>
 
