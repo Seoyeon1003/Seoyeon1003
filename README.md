@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Amazon Aws-white?style=for-the-badge&logo=amazonaws&logoColor=232F3E"/>
 <img src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=2496ED"/>
 <img src="https://img.shields.io/badge/Apache Tomacat-white?style=for-the-badge&logo=apachetomcat&logoColor=F8DC75"/>
-<!-- <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=3776AB"/> -->
+<img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=3776AB"/>
 
 <br/><br/>
 
