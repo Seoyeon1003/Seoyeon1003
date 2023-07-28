@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 -->
 <!-- 로고 자리 -->
   # About Me
+Hi! I'm beginner Developer Lee Seoyeon. These are my connection. You can see my portfolio <a href="https://seoyeondev.netlify.app/" target="_blank">here</a>.
 
+<br/>
 <a href="https://skylarcoding.tistory.com/" target="_blank"><img height="30" width="30" src="https://cdn.simpleicons.org/Tistory/#000000" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/seoyeonDev" target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/GitHub/#181717" /></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:skylarlee1003@gmail.com" target="_blank"><img height="34" width="34" src="https://cdn.simpleicons.org/Gmail/#EA4335" /></a>&nbsp;&nbsp;&nbsp;
