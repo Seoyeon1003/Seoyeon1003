@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 <!-- 로고 자리 -->
   # About Me
 
-<a href="https://skylarcoding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=#000000"/></a>
-<a href="https://github.com/seoyeonDev" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=#181717"/></a>
-<a href="mailto:skylarlee1003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=#EA4335"/></a>
+<a href="https://skylarcoding.tistory.com/" target="_blank"><img height="30" width="30" src="https://cdn.simpleicons.org/Tistory/#000000" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/seoyeonDev" target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/GitHub/#181717" /></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:skylarlee1003@gmail.com" target="_blank"><img height="34" width="34" src="https://cdn.simpleicons.org/Gmail/#EA4335" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://seoyeondev.netlify.app/" target="_blank"><img height="34" width="34" src="https://cdn.simpleicons.org/netlify/#00C7B7" /></a>&nbsp;&nbsp;&nbsp;
+
+
 
 <!-- 능력 -->
 <br/><br/>
