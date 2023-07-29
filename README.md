@@ -51,8 +51,9 @@ Hi! I'm beginner Developer Lee Seoyeon. These are my connection. You can see my 
 
 <br/><br/>
 
-### Github Status
-
+### Github Status 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FseoyeonDev%2Fhit-counter&count_bg=%2375BEF4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+  
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seoyeonDev&show_icons=true&theme=vue">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeonDev&layout=compact&theme=vue">
@@ -61,8 +62,7 @@ Hi! I'm beginner Developer Lee Seoyeon. These are my connection. You can see my 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeonDev&layout=compact&theme=graywhite) -->
 </p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FseoyeonDev%2Fhit-counter&count_bg=%2375BEF4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-  
+
   
   
   
