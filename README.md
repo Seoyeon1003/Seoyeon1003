@@ -55,11 +55,11 @@ Hi! I'm beginner Developer Lee Seoyeon. These are my connection. You can see my 
 ### Github Status 
   
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seoyeonDev&show_icons=true&theme=vue">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeonDev&layout=compact&theme=vue">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seoyeonDev&show_icons=true&theme=graywhite">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeonDev&layout=compact&theme=graywhite">
 
-<!-- ![Anurag's GitHub status](https://github-readme-stats.vercel.app/api?username=seoyeonDev&show_icons=true&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeonDev&layout=compact&theme=graywhite) -->
+<!-- ![Anurag's GitHub status](https://github-readme-stats.vercel.app/api?username=seoyeonDev&show_icons=true&theme=swift)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeonDev&layout=compact&theme=swift) -->
 </p>
 
 <br/>
