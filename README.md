@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 -->
 <!-- 로고 자리 -->
   # About Me
-Hi! I'm beginner Developer Lee Seoyeon. These are my connection. You can see my portfolio <a href="https://seoyeondev.netlify.app/" target="_blank">here</a>.
+Hi! I'm Junior Full Stack Developer Lee Seoyeon. 
+<br/> You can see my portfolio <a href="https://seoyeondev.netlify.app/" target="_blank">here</a>.
+<br/> Blog <a href="https://skylarcoding.tistory.com/" target="_blank">, Mail <a href="mailto:skylarlee1003@gmail.com" target="_blank">
+
 
 <br/>
-<a href="https://skylarcoding.tistory.com/" target="_blank"><img height="30" width="30" src="https://cdn.simpleicons.org/Tistory/#000000" /></a>&nbsp;&nbsp;&nbsp;
+<!-- <a href="https://skylarcoding.tistory.com/" target="_blank"><img height="30" width="30" src="https://cdn.simpleicons.org/Tistory/#000000" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/seoyeonDev" target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/GitHub/#181717" /></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:skylarlee1003@gmail.com" target="_blank"><img height="34" width="34" src="https://cdn.simpleicons.org/Gmail/#EA4335" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://seoyeondev.netlify.app/" target="_blank"><img height="34" width="34" src="https://cdn.simpleicons.org/netlify/#00C7B7" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://seoyeondev.netlify.app/" target="_blank"><img height="34" width="34" src="https://cdn.simpleicons.org/netlify/#00C7B7" /> </a>&nbsp;&nbsp;&nbsp; -->
 
 
 
